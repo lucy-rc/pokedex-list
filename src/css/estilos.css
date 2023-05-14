@@ -103,6 +103,7 @@ main .cartao-pokemon .tipos {
 main .cartao-pokemon .tipo {
 	padding: 8px;
 	border-radius: 10px;
+	border: 1px solid #333333
 }
 
 .grama {
