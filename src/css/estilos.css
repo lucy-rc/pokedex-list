@@ -59,7 +59,7 @@ main .listagem-pokemon {
 
 main .cartao-pokemon {
 	background-color: #f3ccf5;
-	width: 200px;
+	width: 220px;
 	padding: 15px;
 	display: flex;
 	flex-direction: column;
@@ -124,6 +124,14 @@ main .cartao-pokemon .tipo {
 .inseto {
 	background-color: #a2b419;
 }
+
+.voador {
+	background-color: #8d8d5e;
+}
+
+.normal {
+	background-color: #816bc4;
+} 
 
 main .descricao {
 	max-height: 80px;
