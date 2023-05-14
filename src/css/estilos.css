@@ -103,7 +103,6 @@ main .cartao-pokemon .tipos {
 main .cartao-pokemon .tipo {
 	padding: 8px;
 	border-radius: 10px;
-	border: 1px solid #333333
 }
 
 .grama {
@@ -119,7 +118,7 @@ main .cartao-pokemon .tipo {
 }
 
 .agua {
-	background-color: #6390f0;
+	background-color: #597fd3;
 }
 
 .inseto {
